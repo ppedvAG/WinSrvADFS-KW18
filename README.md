@@ -12,6 +12,8 @@ Kursbegleitende Infos zum InHouse Kurs
 | DHCP                       | X | X |
 | Storage Spaces             | X | X |
 | Deduplizierung             | X | X |
-| DateiServer/Berechtigungen |  | X |
-| DFS-Namespaces/Replikation |  | X |
-| Core Server Konfiguration  |  | X |
+| DateiServer/Berechtigungen | X | X |
+| DFS-Namespaces/Replikation | X | X |
+| Core Server Konfiguration  | X | X |
+| Storage Replica            | X |  |
+| Storage Spaces Direct      | X |  |
