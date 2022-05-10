@@ -1,5 +1,6 @@
 # WinSrvADFS-KW18
 Kursbegleitende Infos zum InHouse Kurs
+
 | Thema | Vormittag | Nachmittag |
 | --- | --- | --- |
 | Installationsanforderungen | X | X |
@@ -15,5 +16,8 @@ Kursbegleitende Infos zum InHouse Kurs
 | DateiServer/Berechtigungen | X | X |
 | DFS-Namespaces/Replikation | X | X |
 | Core Server Konfiguration  | X | X |
-| Storage Replica            | X |  |
-| Storage Spaces Direct      | X |  |
+| Storage Replica            | X | X |
+| Storage Spaces Direct      | X | X |
+| Windows Admin Center       | X | X | 
+| ADFS                       | X | X |
+| Offene Fragerunde          | X | X |
